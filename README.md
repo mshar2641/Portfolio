@@ -15,7 +15,7 @@
 
 Также имеется пару проект по On-demand (On-demand (дословно «по требованию») — модель бизнеса, которая предполагает не продажу товаров и услуг, а предоставление доступа к ним именно в тот момент, когда это нужно.)
 
-Вот ссылки: 1. https://colab.research.google.com/drive/1qiDico1Faw6EZifmzF1Jf_uUDA_UnjJO?usp=sharing
-
-            2. https://colab.research.google.com/drive/1Daj5F0frCFTXEUAUJJpkoB_zfmKF67SO?usp=sharing
+Вот ссылки:
+1. https://colab.research.google.com/drive/1qiDico1Faw6EZifmzF1Jf_uUDA_UnjJO?usp=sharing
+2. https://colab.research.google.com/drive/1Daj5F0frCFTXEUAUJJpkoB_zfmKF67SO?usp=sharing
 
