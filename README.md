@@ -12,14 +12,14 @@
 
 Вот ссылка: 
    
-   https://docs.google.com/document/d/1b6Ys_lWp-NIcLwRJtSTPcsVCzbYzoKTPwBLyHBkBkVY/edit?usp=sharing
+    https://docs.google.com/document/d/1b6Ys_lWp-NIcLwRJtSTPcsVCzbYzoKTPwBLyHBkBkVY/edit?usp=sharing
 
 
 Ещё один проект под названием: "Исследование поведения пользователей с помощью Python"
 
 Вот ссылка: 
    
-   https://colab.research.google.com/drive/1jBJtNZSZWHMKK8bIS-_HBDKuijWdeanx?usp=sharing
+    https://colab.research.google.com/drive/1jBJtNZSZWHMKK8bIS-_HBDKuijWdeanx?usp=sharing
 
 
 Также имеется пару проект по On-demand (On-demand (дословно «по требованию») — модель бизнеса, которая предполагает не продажу товаров и услуг, а предоставление доступа к ним именно в тот момент, когда это нужно.)
