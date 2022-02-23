@@ -21,4 +21,6 @@ https://docs.google.com/document/d/1b6Ys_lWp-NIcLwRJtSTPcsVCzbYzoKTPwBLyHBkBkVY/
    
 Также имеется пару проект по On-demand. Я их тоже добавил отдельными файлами
 
+Есть ещё одие проект по анализу поведения пользователей. Проект называется "GD_3"
+
 
