@@ -19,9 +19,6 @@ https://docs.google.com/document/d/1b6Ys_lWp-NIcLwRJtSTPcsVCzbYzoKTPwBLyHBkBkVY/
 
 Файл этого проекта подписан как "Project-3_Mshar_Uladzimir.ipynb"
    
-Также имеется пару проект по On-demand.
+Также имеется пару проект по On-demand. Я их тоже добавил отдельными файлами
 
-Вот ссылки:
-1. https://colab.research.google.com/drive/1qiDico1Faw6EZifmzF1Jf_uUDA_UnjJO?usp=sharing
-2. https://colab.research.google.com/drive/1Daj5F0frCFTXEUAUJJpkoB_zfmKF67SO?usp=sharing
 
