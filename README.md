@@ -17,12 +17,9 @@ https://docs.google.com/document/d/1b6Ys_lWp-NIcLwRJtSTPcsVCzbYzoKTPwBLyHBkBkVY/
 
 Ещё один проект под названием: "Исследование поведения пользователей с помощью Python"
 
-Вот ссылка: 
+Файл этого проекта подписан как "Project-3_Mshar_Uladzimir.ipynb"
    
-https://colab.research.google.com/drive/1jBJtNZSZWHMKK8bIS-_HBDKuijWdeanx?usp=sharing
-
-
-Также имеется пару проект по On-demand (On-demand (дословно «по требованию») — модель бизнеса, которая предполагает не продажу товаров и услуг, а предоставление доступа к ним именно в тот момент, когда это нужно.)
+Также имеется пару проект по On-demand.
 
 Вот ссылки:
 1. https://colab.research.google.com/drive/1qiDico1Faw6EZifmzF1Jf_uUDA_UnjJO?usp=sharing
