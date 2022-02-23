@@ -23,4 +23,4 @@ https://docs.google.com/document/d/1b6Ys_lWp-NIcLwRJtSTPcsVCzbYzoKTPwBLyHBkBkVY/
 
 Есть ещё один проект по анализу поведения пользователей. Проект называется "GD_3".
 
-
+Также иммется проект по A/B-тестированию под одноименным названием.
